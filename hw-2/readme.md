@@ -41,5 +41,3 @@ Everything that was talked about this week I want to discuss further to get a be
 ### **5. What issues did you help your fellow classmates with this past homework cycle?**
 
  Unfortunately I was not able to contribute to helping any of my fellow classmates with some of the issues, but as time progresses I hope that I am able to help with something.
-
- ![Image of my editor](markdown-file-image.jpg)
