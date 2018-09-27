@@ -27,6 +27,8 @@ let star7 = 0 ;
 // Declare draw function
 function draw() {
 
+// Declare no cursor function so the cursor will not appear
+noCursor() ;
 
 
 // BEGIN MOUNTAINS
@@ -142,7 +144,7 @@ push();
   star6 = star6 + 93;
 pop();
 
-// Declare push and pop function to isolate my ellipse function to use my star7 variable 
+// Declare push and pop function to isolate my ellipse function to use my star7 variable
 push();
   translate( width*.03, height*.7 );
   rotate( radians(star7) );
