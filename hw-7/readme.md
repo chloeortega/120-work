@@ -1,6 +1,6 @@
 ## Chloe Ortega, Group C
 
-[Live Sketch Link](Your Live Link)
+[Altered Code for Ball Sketch](https://chloeortega.github.io/120-work/hw-7/)
 
 
 # *HW 7 | Describe then Alter the Bouncing Ball*
@@ -13,7 +13,7 @@ During this weeks homework cycle we were tasked with analyzing given code and de
 
 In short, the original code is allowing an ellipse to move across the the canvas at an angle while staying constrained in parameters and allows the viewer to interact with the movement of the ellipse using their mouse button and can change speed depending on which side of the canvas you click on. Now to break down the code:
 
-**Here the global variables are being defined and the changing the delta or scale values will allow you to change the direction of the ball**
+**Here the global variables are being defined and here changing the delta or scale values will allow you to change the direction of the ball**
 
   `let ball = {};
   ball.width = 40;
@@ -25,7 +25,7 @@ In short, the original code is allowing an ellipse to move across the the canvas
   ball.scale_y = 1;`
 
 
-**The code is declaring the function set up and declaring the size of the canvas as well as the back ground color**
+**The code is declaring the function set up and declaring the size of the canvas as well as the background color**
 
 `function setup() {
     createCanvas(windowWidth, 400);
@@ -75,6 +75,11 @@ In short, the original code is allowing an ellipse to move across the the canvas
 I altered my sketch in that I changed the stroke color, transparency, fill color, and size of the ellipse so that at each loop there would be a random color generated using the `random()` function. In addition to the `mousePressed()` function, I added an additional `mouseIsPressed` variable and `random()` function so when the mouse is pressed the background will generate a new background color.
 
 
+## Work
+Below is a sample of my code and a screenshot of my final sketch.
+![This is my code and final sketch of Altered Ball](altering_ball.png)
+
+
 ## Issues and Progress
 
-This week I didn't run into issues concerning the material, the only issue I ran into was not having enough adequate time to play with the sketch due to personal matters, in next weeks work I will be sure to give more time to my assignment. In the future if I do run into any issues concerning the material I will be sure to make use of my time and make use of the class issues forum. 
+This week I didn't run into issues concerning the material, the only issue I ran into was not having enough adequate time to play with the sketch due to personal matters, in next weeks work I will be sure to give more time to my assignment. In the future if I do run into any issues concerning the material I will be sure to make better use of my time and make use of the class issues forum.
