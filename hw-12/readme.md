@@ -1,7 +1,7 @@
 # Chloe Ortega, Group C
 
 
-[Bursting Drops Live Sketch](https://chloeortega.github.io/120-work/hw-12/)
+[Confetti Party Live Sketch](https://chloeortega.github.io/120-work/hw-12/)
 
 ## Homework 12 Cycle Breakdown
 
