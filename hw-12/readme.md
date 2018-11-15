@@ -16,7 +16,7 @@ I enjoyed this cycles homework we were introduced to how to make objects aware o
 This week I did encounter some minor issues regarding the parameters of some of my functions. I wanted the confetti particles to bounce off the left and right border of the canvas and move past the top and bottom canvas border. In order to work around my issues I took the following steps;
 
 - I reread through this week and last weeks material
-- Spent an extensive amount of time watching Daniwl Shiffman's coding videos on YouTube
+- Spent an extensive amount of time watching Daniel Shiffman's coding videos on YouTube
 - Researched on Google
 - Used the Reference page on the p5.js website
 - Spent more time inputting different parameters
