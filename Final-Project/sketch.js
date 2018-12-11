@@ -79,7 +79,7 @@ stars.forEach(function(s) {
 
 }
 
-// Giving parameters to the darw star function
+// Giving parameters to the draw star function
 function drawStar(x, y, size) {
   image(starImage, x, y, size, size)
 }
