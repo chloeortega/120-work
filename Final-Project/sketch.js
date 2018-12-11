@@ -86,7 +86,7 @@ function drawStar(x, y, size) {
 
 
 
-// Create function to be able to specify how many stars we want to show
+// Create function to be able to specify how many stars I want to show
 // Use push function to move them and change the speed of the stars falling at random
 function createStars(num) {
   for(var i = 0; i < num; i++) {
